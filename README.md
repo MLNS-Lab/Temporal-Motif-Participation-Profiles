@@ -1,5 +1,9 @@
 # Temporal-Motifs
 
+The paper associated with this repo, "Temporal Motif Participation Profiles for Analyzing Node Similarity in Temporal Networks," presented at The 17th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2025), can be found here: https://arxiv.org/abs/2507.06465. 
+
+#
+
 The TMPP-Analysis directory contains the main files for analyzing TMPPs.
 - MIDsPositioned.ipynb is the main (positioned) TMPP analysis file.
 - MIDsPositionless.ipynb contains analysis for positionless TMPPs.
